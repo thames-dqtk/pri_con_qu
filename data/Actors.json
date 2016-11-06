@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"RAPU","characterIndex":0,"characterName":"RAPU","classId":1,"equips":[2,0,2,2,0,null,129],"faceIndex":0,"faceName":"RAPU","traits":[],"initialLevel":1,"maxLevel":99,"name":"らぷらた","nickname":"１４歳","note":"","profile":""},
+{"id":2,"battlerName":"tobai","characterIndex":0,"characterName":"tobai","classId":2,"equips":[26,0,2,17,0,null,130],"faceIndex":0,"faceName":"Tobai","traits":[],"initialLevel":1,"maxLevel":99,"name":"トバイアス","nickname":"１７歳","note":"","profile":""},
+{"id":3,"battlerName":"ZENO","characterIndex":0,"characterName":"ZENO","classId":3,"equips":[47,0,87,28,4,null,132],"faceIndex":0,"faceName":"ZENO","traits":[],"initialLevel":5,"maxLevel":99,"name":"ゼノビア","nickname":"１７歳","note":"","profile":""},
+{"id":4,"battlerName":"resta","characterIndex":0,"characterName":"resta","classId":4,"equips":[71,58,97,38,109,0,133],"faceIndex":0,"faceName":"resta","traits":[],"initialLevel":12,"maxLevel":99,"name":"レスター","nickname":"１８歳","note":"","profile":""}
+]
